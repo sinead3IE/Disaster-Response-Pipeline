@@ -8,6 +8,7 @@ There are 3 folders contained in this repository:
 - Models
   * The Machine Learning model script is stored here, aswell as the .sav file. 
   * You can run this script by accessing 'train_classifier.py'
+  * The udacity_model.sav file is in a zipped folder as the file was too large to upload
 
 - App
  * The script 'run.py' will show you 3 visualisations in the Fask web app, the visualisations are: 
